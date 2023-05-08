@@ -29,3 +29,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=NIRMAL1508&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL1508&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📫 Connect with me<img src="handshake.gif" height="24px">
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muthukumaresannirmal@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-m-8934a8218/)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/muthukumaresann1)
+[![](	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nirmal15082002)
+
