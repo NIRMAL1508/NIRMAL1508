@@ -27,6 +27,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NIRMAL1508&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NIRMAL1508&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL1508&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
