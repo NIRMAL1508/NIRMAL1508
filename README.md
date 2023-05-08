@@ -1,3 +1,4 @@
+[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.dk%2Fpin%2F473440979559696520%2F%3Fsend%3Dtrue&psig=AOvVaw0CHD4iSqKUnkk5tcNBUweV&ust=1683638243866000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMispq3n5f4CFQAAAAAdAAAAABAZ))]
 <h1 align="center">Hi 👋, I'm NIRMAL M</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
