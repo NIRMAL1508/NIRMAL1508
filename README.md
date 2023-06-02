@@ -26,10 +26,6 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NIRMAL1508&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL1508&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 # 📫 Connect with me<img src="handshake.gif" height="24px">
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muthukumaresannirmal@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-m-8934a8218/)
