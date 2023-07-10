@@ -34,3 +34,9 @@
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/muthukumaresann1)
 [![](	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nirmal15082002)
 
+<p>
+<div align="center">
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL1508&layout=compact&hide=html&hide_border=true" height=200>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIRMAL1508&theme=vue" alt="" height=200>
+</div>
+</p>
