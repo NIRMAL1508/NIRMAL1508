@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm NIRMAL M</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 Passionate and dedicated Computer Science Engineering student with a strong foundation in programming and development. Eager to apply my technical expertise and problem-solving skills to contribute to innovative software solutions. I thrive in collaborative environments and enjoy tackling complex challenges with a proactive and detail-oriented approach. 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coder GIF" height=250 width=400 src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
+
 
 # 💻 Tech Stack:
 ## Languages and Frameworks
