@@ -1,3 +1,5 @@
+![NIRMAL1508_POSTER](https://github.com/NIRMAL1508/NIRMAL1508/assets/86112673/bbb27c30-4e41-4622-8995-e710a09c7fda)
+
 <h1 align="center">Hi 👋, I'm NIRMAL M</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
