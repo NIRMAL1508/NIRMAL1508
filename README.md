@@ -1,4 +1,4 @@
-![NIRMAL1508_POSTER](https://github.com/NIRMAL1508/NIRMAL1508/assets/86112673/bbb27c30-4e41-4622-8995-e710a09c7fda)
+ <!--![NIRMAL1508_POSTER](https://github.com/NIRMAL1508/NIRMAL1508/assets/86112673/bbb27c30-4e41-4622-8995-e710a09c7fda)-->
 [![An image of @nirmal1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirmal1508)](https://holopin.io/@nirmal1508)
 <h1 align="center">Hi 👋, I'm NIRMAL M</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
