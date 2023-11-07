@@ -41,7 +41,4 @@ Passionate and dedicated Computer Science Engineering student with a strong foun
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL1508&layout=compact&hide=html&hide_border=true" height=200>
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIRMAL1508&theme=vue" alt="" height=200>
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIRMAL1508&theme=vue" alt="" height=200>
-    <img stc="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIRMAL1508&theme=vue" alt="" height=200>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NIRMAL1508&theme=vue" alt="" height=200>
-</div>
 </p>
